@@ -8,7 +8,7 @@ void PORTA_init(void)
     PORTA=0; // ALl PORTA pins are low
     CMCON0=7; // Turn off comparators
     ANSEL=0; // Turn off ADC
-    TRISA=0b111111; // RA5 to 0 are input 
+    TRISA=0b111111; // RA5 to 0 are inputs 
     return;
 }
 /* END OF PORTA_init*/
