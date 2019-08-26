@@ -15,7 +15,7 @@ One 0.01 µF capacitor <br>
 One 0.1 µF capacitor <br>
 One	0.33 µF capacitor <br>
 One Battery clip (9-volt) <br>
-Five	470 Ω resistor <br>
+Five	470 Ω resistors <br>
 One	10k Ω resistor <br>
 One	Green LED or other suitable color <br>
 One LED Bargraph <br>
